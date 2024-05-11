@@ -37,3 +37,4 @@ total - total score (target variable)
 
 
 This project by HIMANSHI(11422210010) AND LAGHUVI(11422210005)
+Btech - CSE [Blockchain and Iot]
