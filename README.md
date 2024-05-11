@@ -34,3 +34,6 @@ wicket_last_5 - wickets in last 5 overs
 stricker - batsman playing as main 1
 non-striker - batsman playing as runner up - not main 0
 total - total score (target variable)
+
+
+This project by HIMANSHI(11422210010) AND LAGHUVI(11422210005)
